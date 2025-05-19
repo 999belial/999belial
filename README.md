@@ -22,7 +22,7 @@
 ### 🛠️ Технології та інструменти
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,git,github,vscode&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ---

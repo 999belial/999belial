@@ -1,6 +1,6 @@
 <!-- Привітання -->
 <h1 align="center">
-  Привіт, я — ТВОЄ_ІМʼЯ 👋
+  Привіт, я — 999belial 👋
 </h1>
 
 <p align="center">
@@ -12,9 +12,9 @@
 ### 🧑‍💻 Про мене
 
 - 🔭 Працюю над: **[твоїм поточним проєктом]**
-- 🌱 Вивчаю: **[технології або напрямки, наприклад — AI, Rust, DevOps]**
-- 💬 Можеш питати мене про: `Python`, `React`, `Docker`, `API`, `Git`
-- 📫 Звʼязок: **[твоя пошта, Telegram, LinkedIn]**
+- 🌱 Вивчаю: **[технології або напрямки, наприклад — React]**
+- 💬 Можеш питати мене про: `CSS`, `React`, `HTML`, `JS`, `Git`
+- 📫 Звʼязок: **[yumi.moder@gmail.com]**
 - ⚡ Цікавий факт: люблю автоматизувати все, що можна 🤖
 
 ---
@@ -29,10 +29,7 @@
 
 ### 📊 Статистика GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВІЙ_USERNAME&show_icons=true&theme=tokyonight&hide=prs" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВІЙ_USERNAME&theme=tokyonight" alt="Streak" />
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=999belial&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 

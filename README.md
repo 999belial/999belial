@@ -22,7 +22,7 @@
 ### 🛠️ Технології та інструменти
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,go,html,css,tailwind,docker,git,github,postgres,vscode&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,git,github,vscode&perline=7" alt="Tech Stack" />
 </p>
 
 ---
@@ -45,9 +45,9 @@
 ### 📬 Як мене знайти
 
 <p align="center">
-  <a href="mailto:твоя_пошта@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/твій_telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/твій_профіль"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yumi.moder@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/твій_telegram"><img src="#" /></a>
+  <a href="https://linkedin.com/in/твій_профіль"><img src="#" /></a>
 </p>
 
 ---

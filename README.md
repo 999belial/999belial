@@ -57,7 +57,7 @@
 ### 🔥 Активність
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ТВІЙ_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=999belial&theme=tokyonight" />
 </p>
 
 ---

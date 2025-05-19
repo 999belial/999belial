@@ -3,10 +3,9 @@
   Привіт, я — 999belial 👋
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full-stack+розробник;Прихильник+чистого+коду;Люблю+Python%2C+JavaScript+та+нові+технології" alt="Typing SVG" />
-</p>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ---
 
 ### 🧑‍💻 Про мене
